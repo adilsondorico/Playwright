@@ -8,6 +8,12 @@ Utilizar a IDE (compatível) de sua preferência para escrever e executar os tes
 OBS: Nestes testes foi utilizado o VSCode;
 Após escrever os testes, executar o comando "$ npm run tests:api" no terminal do vscode;
 
+O relatório de execução dos testes, com os resultados obtidos e evidências estão nos diretórios:
+\Playwright\playwright-report
+\Playwright\test-results
+
+ 
+
 Teste técnico QA - API
 Você foi contratado como QA em uma equipe de desenvolvimento que está criando uma aplicação para amantes de cães. Sua tarefa é garantir a qualidade da integração com a Dog API https://dog.ceo/dog-api/documentation. A aplicação permitirá que os usuários visualizem imagens de diferentes raças de cães, bem como aprendam sobre as raças disponíveis.
 
