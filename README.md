@@ -8,10 +8,7 @@ Utilizar a IDE (compatível) de sua preferência para escrever e executar os tes
 OBS: Nestes testes foi utilizado o VSCode;
 Após escrever os testes, executar o comando "$ npm run tests:api" no terminal do vscode;
 
-O relatório de execução dos testes, com os resultados obtidos e evidências estão nos diretórios:
-\Playwright\playwright-report
-\Playwright\test-results
-
+O relatório de execução dos testes, com os resultados obtidos e evidências estão nos diretórios "Evidências".
  
 
 Teste técnico QA - API
